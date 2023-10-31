@@ -1,2 +1,1 @@
-# Lumina Sama
-(An upcoming project, sometime it will be revealed, check back later.)
+<a href="#"><img src="https://raw.githubusercontent.com/LuminaAI/.github/main/Banner.png" /></a>
