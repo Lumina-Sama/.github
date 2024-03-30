@@ -1,1 +1,1 @@
-<a href="#"><img src="https://raw.githubusercontent.com/LuminaAI/.github/main/LAIBanner.png" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/LuminaAI/.github/main/LuminaAI Banner.png" /></a>
